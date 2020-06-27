@@ -1,0 +1,6 @@
+antlr4-python3-runtime==4.8
+graphviz==0.14
+importlib-metadata==1.6.1
+importlib-resources==2.0.0
+ply==3.11
+zipp==3.1.0
